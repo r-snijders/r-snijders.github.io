@@ -1,5 +1,6 @@
-# Hello!
-
-Hello!
-
-## Hello Again!
+---
+layout: page
+title
+permalink: /about/
+---
+Hello there!
